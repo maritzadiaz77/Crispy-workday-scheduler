@@ -69,9 +69,10 @@ $(function () {
     timeElement.text(currentTime);
   }
   // calling these 3 functions
-    hourlyColor();
+  //it works
+    // hourlyColor();
     textEntry();                
-    refreshColor();
+    // refreshColor();
 // This will update time by using interval
     setInterval(updateTime, 1000);
   
