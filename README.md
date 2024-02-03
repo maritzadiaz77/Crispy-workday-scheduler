@@ -9,6 +9,7 @@ N/A
 ## Usage
 
 Below is the deployed URL:
+https://maritzadiaz77.github.io/Crispy-workday-scheduler/
 
 ## Credits
 I had a lot of help from W3 Schools and my tutor who asked me various questions that led me to my solutions to my problems in my application.
