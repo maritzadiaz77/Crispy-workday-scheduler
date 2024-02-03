@@ -11,6 +11,8 @@ N/A
 Below is the deployed URL:
 https://maritzadiaz77.github.io/Crispy-workday-scheduler/
 
+![screenshot](Develop/Assets/Workday.png)
+
 ## Credits
 I had a lot of help from W3 Schools and my tutor who asked me various questions that led me to my solutions to my problems in my application.
 
