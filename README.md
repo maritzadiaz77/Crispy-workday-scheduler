@@ -6,12 +6,12 @@ This is a simple calendar application that allows a user to save events for each
 ## Installation
 N/A
 
-##Usage
+## Usage
 
 Below is the deployed URL:
 
-##credits
+## Credits
 I had a lot of help from W3 Schools and my tutor who asked me various questions that led me to my solutions to my problems in my application.
 
-##License
+## License
 N/A
